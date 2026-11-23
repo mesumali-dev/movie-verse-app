@@ -1,4 +1,4 @@
-# 🎬 MovieVerse — Cinematic Discovery & Media Explorer
+# 🎬 MovieVerse | Cinematic Discovery & Media Explorer
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/)
@@ -28,4 +28,4 @@ cd movie-verse-app
 ---
 
 ## 👨‍💻 Author
-**Syed Mesum Ali** — [@mesumali-dev](https://github.com/mesumali-dev)
+**Syed Mesum Ali** - [@mesumali-dev](https://github.com/mesumali-dev)
