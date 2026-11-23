@@ -1,4 +1,4 @@
-# 🎬 MovieVerse | Cinematic Discovery & Media Explorer
+# MovieVerse | Cinematic Discovery & Media Explorer
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/)
@@ -8,7 +8,7 @@
 
 ---
 
-## 🍿 Features
+## Features
 
 - **Featured Blockbuster Showcase:** Dynamic hero spotlights for trending theatrical releases.
 - **Movie Profile Detail Pages:** High-resolution movie posters, plot synopsis, cast lists, and runtimes.
@@ -17,7 +17,7 @@
 
 ---
 
-## 🚀 How to View
+## How to View
 
 ```bash
 git clone https://github.com/mesumali-dev/movie-verse-app.git
@@ -27,5 +27,5 @@ cd movie-verse-app
 
 ---
 
-## 👨‍💻 Author
+## ‍ Author
 **Syed Mesum Ali** - [@mesumali-dev](https://github.com/mesumali-dev)
